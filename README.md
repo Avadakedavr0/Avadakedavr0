@@ -1,60 +1,3 @@
-ProfileMe.dev
-
-
-INTRODUCTION
-SKILLS
-SOCIALS
-BADGES
-SUPPORT
-Go home
-© 2024 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Badges
-Add some badges and stats to your profile.
-
-Previous section
-Next section
-STYLE BADGES:
-
-
- 
-TITLE
-EDIT
-
- 
-TEXT
-EDIT
-
- 
-ICONS
-EDIT
-
- 
-BACKGROUND
-EDIT
-GitHub
-STATS CARD
-COMMIT STREAK
-COMMITS GRAPH
-TOP LANGUAGES
-TOP REPOSITORIES
-FOLLOWER COUNT
-Twitter
-Please add your X profile in the socials section.
-
-FOLLOWER COUNT
-Twitch
-Please add your Twitch profile in the socials section.
-
-STREAMING STATUS
-Previous section
-Next section
-PREVIEW
-MARKDOWN
-COPY
 Hi 👋 My name is Dylan Verwimp
 ==============================
 
@@ -80,4 +23,3 @@ As a Full Stack .NET Developer, blending technical expertise with creative probl
 
 <a href="http://www.github.com/Avadakedavr0"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Avadakedavr0&stroke=64748b&background=1c1917&ring=64748b&fire=64748b&currStreakNum=64748b&currStreakLabel=64748b&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-ProfileMe.dev | Create an amazing GitHub profile in minutes

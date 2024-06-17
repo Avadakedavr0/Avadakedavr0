@@ -1,7 +1,7 @@
 Hi 👋 My name is Dylan Verwimp
 ==============================
 
-As a Full Stack .NET Developer, blending technical expertise with creative problem-solving is fundamental. It's about crafting applications that resonate with client needs and user expectations. This pursuit is not just a professional responsibility but also a personal passion, driven by a continuous quest to refine skills in C#, .NET, and various development tools.
+As a Software Developer, blending technical expertise with creative problem-solving is fundamental. It's about crafting applications that resonate with client needs and user expectations. This pursuit is not just a professional responsibility but also a personal passion, driven by a continuous quest to refine skills and various development tools.
 
 * 🌍  I'm based in Belgium
 * 🖥️  See my portfolio at [dylanverwimp.net/](http://dylanverwimp.net/)
